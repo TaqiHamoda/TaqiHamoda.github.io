@@ -2,25 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Undergraduate Researcher at CRL - HBSc from University of Toronto
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # address: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Hello, and welcome! 👋
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm currently an undergraduate researcher at the University of Toronto's [Continuum Robotics Lab (CRL)](https://crl.utm.utoronto.ca/), where I've had the privilege of working under the guidance of [Dr. Jessica Burgner-Kahrs](https://www.cs.toronto.edu/~jbk/). My current research focuses on static modeling and numerical optimization.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My interests revolve around the world of robotics, specifically in the areas of Control, Motion Planning, Mapping, and Robot Learning. I'm genuinely fascinated by the idea of autonomous robots that can navigate unfamiliar environments while learning from their experiences. Additionally, I'm a strong advocate of open-source and free software – since knowledge should be accessible to everyone!
+
+#### Research
+
+I completed my HBSc in Computer Science at the University of Toronto, Mississauga Campus; during my bachelors, I was a student reseacher with the CRL. My primary role was developing software for the [Open Continuum Robotics Initiative](https://www.opencontinuumrobotics.com/) - a project that aims to make Continuum Robotics more accessible for all by providing open source software and hardware along with educational articles and tutorials. Currently, I am currently writing my undergraduate thesis on the Numerical Optimization of the Cosserat Rod Differential Equations to allow for precise real-time modelling and control of Concentric Tube Continuum Robots (CTCRs).
+
+I've been fortunate to receive recognition for my academic endeavors, including the [University of Toronto Mississauga's Undergraduate Research Grant](https://www.utm.utoronto.ca/dean/awards-grants/undergraduate-awards-grants/utm-undergraduate-research-grants) and the prestigious [NSERC's Undergraduate Student Research Award](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp).
+
+#### Hobbies
+
+Outside of work, you might find me enjoying a Salsa social or at the local public library trying to learn a new language (estoy aprendiendo español). I also love traveling and reading but, to be honest, who doesn't. 😅
