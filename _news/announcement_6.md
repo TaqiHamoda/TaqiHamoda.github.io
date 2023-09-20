@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The [Open Continuum Robotics -- One Actuation Module to Create them All](https://arxiv.org/abs/2304.11850) has been published on arXiv.
+The [Open Continuum Robotics -- One Actuation Module to Create them All](https://arxiv.org/abs/2304.11850) paper has been published on arXiv.
