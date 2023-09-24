@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  address: >  # Who is the crazy person that would actually put their address :P
     <p>H.B.Sc. Computer Science</p>
     <p>University of Toronto</p>
     <p>t.hamoda [at] mail.utoronto.ca</p>
