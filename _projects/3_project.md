@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Neural Network Visualizations
+title: NN Visualizations
 description: Visualizing the inner working of Neural Networks using Manim
-img: assets/img/nn_viz.png
+img: assets/img/nn_viz.gif
 redirect: https://github.com/TaqiHamoda/CSC492VisualDesignForDeepLearningConcepts
 importance: 3
 # category: work
