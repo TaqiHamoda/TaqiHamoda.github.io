@@ -2,13 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Taqi Hamoda's Website # the website title (if blank, full name will be used instead)
+title: Taqi Hamoda - My little corner of the internet # the website title (if blank, full name will be used instead)
 first_name: Taqi
 # middle_name: R.
 last_name: Hamoda
 # email: 
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Welcome to my little corner of the internet ^_^
+# description:
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -115,7 +114,7 @@ contact_note: >
 google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: QW3-4mDPvTGNTmOBztdoLAlhpwljQuomjSyE7RKKPGs # your google-site-verification ID (Google Search Console)
+google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
