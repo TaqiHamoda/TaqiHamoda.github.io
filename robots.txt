@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow:/blog/
 
 Sitemap: https://taqihamoda.github.io/sitemap.xml
