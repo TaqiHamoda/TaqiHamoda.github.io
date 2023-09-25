@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://TaqiHamoda.github.io/sitemap.xml
+Sitemap: https://taqihamoda.github.io/sitemap.xml
