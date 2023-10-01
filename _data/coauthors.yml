@@ -1,12 +1,12 @@
 "Burgner-Kahrs":
-  - firstname: ["Jessica"]
+  - firstname: ["Jessica", "J."]
     url: https://www.cs.toronto.edu/~jbk/
 
 "Grassmann":
-  - firstname: ["Reinhard", "Reinhard M."]
+  - firstname: ["Reinhard", "Reinhard M.", "R.", "R. M."]
     url: https://reinhardgrassmann.github.io/
 
 "Shentu":
-  - firstname: ["Chengnan"]
-    url: https://scholar.google.com/citations?user=eLZ4kpAAAAAJ
+  - firstname: ["Chengnan", "C."]
+    url: https://www.cs.toronto.edu/~cshentu/
 
